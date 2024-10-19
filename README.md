@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I'm currently a Data Schooler in The Data School of New York!
+I'm formally a Data Schooler from The Data School of New York!
 
 I'm currently in a SQL binge, but I also have other badges under my belt!
 
